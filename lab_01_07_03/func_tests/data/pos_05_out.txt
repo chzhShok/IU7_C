@@ -1,0 +1,4 @@
+s; -0.666340
+f: -0.662426
+absolute_error: 0.003914
+relative_error: 0.005908

@@ -1,0 +1,18 @@
+#ifndef ERRORS_H
+#define ERRORS_H
+
+enum errors
+{
+    OK,
+    INCORRECT_ARGUMENTS_COUNT,
+    IO_ERROR,
+    INCORRECT_ARGUMENTS,
+    BUFFER_ERROR,
+    EMPTY_FILE,
+    KEY_ERROR,
+    NOT_FOUND,
+    MEMORY_ERROR,
+    INCORRECT_NUM_OF_LINES,
+};
+
+#endif//ERRORS_H

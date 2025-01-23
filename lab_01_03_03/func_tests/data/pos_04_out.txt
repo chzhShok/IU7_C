@@ -1,0 +1,2 @@
+Enter the initial velocity v0, acceleration a, time t: 
+Displacement: 351.667704
